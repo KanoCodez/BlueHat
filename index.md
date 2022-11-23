@@ -1,5 +1,5 @@
 # Games
-[Idle Startup Tycoon](./graphingcalc.html).
+[Idle Startup Tycoon](./graphingcalc.html)
 
 ## Header 2
 
